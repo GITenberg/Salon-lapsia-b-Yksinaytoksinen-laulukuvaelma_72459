@@ -1,0 +1,33 @@
+_repo: Salon-lapsia-b-Yksinaytoksinen-laulukuvaelma_72459
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Linnankoski, Johannes
+    alias: Peltonen, Vihtori
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '4130'
+    url: http://www.gutenberg.org/2009/agents/4130
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Johannes_Linnankoski
+    - https://fi.wikipedia.org/wiki/Johannes_Linnankoski
+description: ''
+gutenberg_issued: '2023-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72459'
+language: fi
+pgterms:marc905: 20230704021534peltonen
+pgterms:marc906: '1900'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama'
+- !lcc 'PH'
+- GITenberg
+title: 'Salon lapsia : $b Yksinäytöksinen laulukuvaelma'
+url: http://www.gutenberg.org/ebooks/72459
