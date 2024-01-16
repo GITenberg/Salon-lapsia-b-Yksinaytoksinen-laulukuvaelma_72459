@@ -1,5 +1,8 @@
 _repo: Salon-lapsia-b-Yksinaytoksinen-laulukuvaelma_72459
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Linnankoski, Johannes
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Johannes_Linnankoski
     - https://fi.wikipedia.org/wiki/Johannes_Linnankoski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72459#Salon-lapsia-b-Yksinaytoksinen-laulukuvaelma
 gutenberg_issued: '2023-12-20'
 gutenberg_type: Text
 identifiers:
